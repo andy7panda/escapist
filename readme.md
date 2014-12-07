@@ -13,14 +13,10 @@ It is able to:
 * Change credentials.py according to your needs
 * Run this to save a list of articles into file:
 ```
-#!python
-
 scrap_url_list(BLOGGER_BY_URL, 17, reversed_order=True)
 ```
 * Run this to save articles:
 
 ```
-#!python
-
 scrap_articles()
 ```
